@@ -14,7 +14,7 @@ module.exports = {
   icon: 'https://firebasestorage.googleapis.com/v0/b/cineflash-cefa4.appspot.com/o/nezuko.271a0cd5e0fb16d0e242ef724d3d7488.webp?alt=media&token=16cb7b48-1833-4d97-89ba-db39080996b8',
 
   // The name of your website. Present alongside your icon.
-  title: "pelis",
+  title: "AnimeParty Online",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:remboanime2@t.5tb.in',
+  email: 'mailto:armandolesme@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
