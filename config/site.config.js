@@ -14,14 +14,14 @@ module.exports = {
   icon: 'https://firebasestorage.googleapis.com/v0/b/cineflash-cefa4.appspot.com/o/nezuko.271a0cd5e0fb16d0e242ef724d3d7488.webp?alt=media&token=16cb7b48-1833-4d97-89ba-db39080996b8',
 
   // The name of your website. Present alongside your icon.
-  title: "AnimeParty Online",
+  title: "AnimeParty",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
-  maxItems: 200,
+  maxItems: 100,
 
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
