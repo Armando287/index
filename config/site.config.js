@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '',
+  icon: 'https://firebasestorage.googleapis.com/v0/b/cineflash-cefa4.appspot.com/o/nezuko.271a0cd5e0fb16d0e242ef724d3d7488.webp?alt=media&token=16cb7b48-1833-4d97-89ba-db39080996b8',
 
   // The name of your website. Present alongside your icon.
   title: "pelis",
